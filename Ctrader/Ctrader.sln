@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F9E7F740-FCA5-482E-839D-1ADA5F6F2ABA}") = "Ctrader", "Ctrader\Ctrader.csproj", "{4ECA3654-DEF2-4952-A6F7-7DCED44EB87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECA3654-DEF2-4952-A6F7-7DCED44EB87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECA3654-DEF2-4952-A6F7-7DCED44EB87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECA3654-DEF2-4952-A6F7-7DCED44EB87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECA3654-DEF2-4952-A6F7-7DCED44EB87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1BE57C-A461-477B-989D-DBB414D0185F}
+	EndGlobalSection
+EndGlobal

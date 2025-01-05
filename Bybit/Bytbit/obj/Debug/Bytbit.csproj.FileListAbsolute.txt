@@ -1,0 +1,10 @@
+C:\Users\pnfTrading\AppData\Local\Updata\IO\BYTBIT.dll
+C:\Users\pnfTrading\AppData\Local\Updata\IO\BYTBIT.pdb
+D:\Bybit\Bytbit\obj\Debug\Bytbit.csproj.AssemblyReference.cache
+D:\Bybit\Bytbit\obj\Debug\Bytbit.Selector.resources
+D:\Bybit\Bytbit\obj\Debug\Bytbit.TradeDialog.resources
+D:\Bybit\Bytbit\obj\Debug\Bytbit.csproj.GenerateResource.cache
+D:\Bybit\Bytbit\obj\Debug\Bytbit.csproj.CoreCompileInputs.cache
+D:\Bybit\Bytbit\obj\Debug\Bytbit.csproj.Up2Date
+D:\Bybit\Bytbit\obj\Debug\BYTBIT.dll
+D:\Bybit\Bytbit\obj\Debug\BYTBIT.pdb

@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2F8AA3F6-AFC4-4E98-9006-F2371FE45CB1}") = "Binance", "Binance\Binance.csproj", "{50A72D74-11EE-435E-92F9-43D98E93AFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A72D74-11EE-435E-92F9-43D98E93AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A72D74-11EE-435E-92F9-43D98E93AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A72D74-11EE-435E-92F9-43D98E93AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A72D74-11EE-435E-92F9-43D98E93AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F986523A-B721-4862-A599-CB1192A071F7}
+	EndGlobalSection
+EndGlobal
